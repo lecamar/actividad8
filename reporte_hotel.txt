@@ -1,0 +1,19 @@
+=== PERSONAS ===
+Han Solo (Documento: 1001) | Recepcionista Han Solo, código REC-01, turno de Mañana
+Leia Organa (Documento: 1002) | Recepcionista Leia Organa, código REC-02, turno de Tarde
+Jack Sparrow (Documento: 2001) | Huésped Jack Sparrow, documento 2001, viaja con 2 persona(s)
+Marty McFly (Documento: 2002) | Huésped Marty McFly, documento 2002, viaja con 1 persona(s)
+Forrest Gump (Documento: 2003) | Huésped Forrest Gump, documento 2003, viaja con 3 persona(s)
+Hermione Granger (Documento: 2004) | Huésped Hermione Granger, documento 2004, viaja con 2 persona(s)
+=== HABITACIONES ===
+Habitación 101 | Sencilla | Capacidad: 1 | $80,000 por noche | Ocupada
+Habitación 102 | Doble | Capacidad: 2 | $120,000 por noche | Ocupada
+Habitación 201 | Doble | Capacidad: 2 | $130,000 por noche | Ocupada
+Habitación 202 | Suite | Capacidad: 4 | $250,000 por noche | Ocupada
+Habitación 301 | Suite | Capacidad: 5 | $300,000 por noche | Ocupada
+Habitación 302 | Doble | Capacidad: 2 | $125,000 por noche | Libre
+=== TOTALES A PAGAR ===
+Jack Sparrow: $892,500
+Marty McFly: $190,400
+Forrest Gump: $1,190,000
+Hermione Granger: $714,000

@@ -176,7 +176,9 @@ En `Program.cs` hay dos listas que demuestran el polimorfismo:
 | **Manejo de archivos** | `StreamWriter` con `using` y `File.ReadAllLines` |
 | **Modularidad** | Un archivo `.cs` por clase e interfaz, todo en el namespace `Hotel` |
 
-##Evidencias
+---
+
+## Evidencias
 
 <img width="1920" height="1032" alt="Screenshot 2026-11-11 225118" src="https://github.com/user-attachments/assets/3a175e89-894d-4e50-aab9-75275e9349bc" />
 <img width="1920" height="1032" alt="Screenshot 2026-11-11 225138" src="https://github.com/user-attachments/assets/3122da7f-af61-4f19-8be0-c11fef095870" />
